@@ -5,6 +5,17 @@
     gap: 10px;
 }
 
+.visited{
+    background-color: cornflowerblue;
+    border-radius: 10px;
+    color: white;
+}
+
+.flag-img-container img {
+    width: 100px;
+    margin: 20px;
+}
+
 
 @media screen and (max-width: 560px){
    .country-container{
